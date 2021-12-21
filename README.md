@@ -3,10 +3,10 @@
 - 🔭 Estou trabalhando atualmente com front-end
 - 🌱 Estudando atualmente HTML, CSS e JS
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/hemillyaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemillyaraujo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemillyaraujo&layout=compact&langs_count=7&theme=merko"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hemillyaraujo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemillyaraujo&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
