@@ -1,7 +1,4 @@
-### Boa manhã! Boa tarde! Boa noite! 
-
-- 🔭 Estou trabalhando atualmente com front-end
-- 🌱 Estudando atualmente HTML, CSS e JS
+Alô!!!
 
 <div align="left">
   <a href="https://github.com/hemillyaraujo">
